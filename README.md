@@ -1,2 +1,2 @@
 # Game_dev
-dis repo dibuat untuk pengembangan game antara saya dengan sendy, mwehehehe
+dis repo dibuat untuk pengembangan game antara saya dengan artast, mwehehehe
